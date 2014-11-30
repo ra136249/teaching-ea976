@@ -1,48 +1,43 @@
 ATIVIDADE COMPLEMENTAR 1
 
-Leia o artigo de Cerpa e Verner (Why did your project fail?), 
-disponível em http://dl.acm.org/citation.cfm?id=1610286 e na área de Leituras do ambiente Ensino Aberto, 
+Leia o artigo de Cerpa e Verner (Why did your project fail?),
+disponível em http://dl.acm.org/citation.cfm?id=1610286 e na área de Leituras do ambiente Ensino Aberto,
 e responda às seguintes questões:
 
 1. No estudo dos autores, qual foi a proporção de projetos de software que falharam? Esse valor é confiável?
 
-	Resposta: De acordo com a pesquisa bibliográfica mais recente dos autores, cerca de 65% dos projetos iniciados em 
-	2006 fracassaram (Standish Group, 2007), enquanto dados de outra fonte (CHAOS, 2007) indicam que 46% dos projetos 
-	tiveram problemas de custo ou tempo execedidos, ou acabaram por não atender às demandas dos clientes, enquanto 16% 
-	puderam ser considerados completos fracassos. Entretanto, os dados da primeira fonte estão sendo questionados, uma 
-	vez que trazem divergências nos percentuais de custo excedido se comparados aos percentuais trazidos por outras 
-	fontes. Um dos problemas citados como causa da discrepância está na metodologia adotada, uma vez que os dados são 
-	obtidos por meio de um questionário sobre histórias de fracasso passado aos executivos de grandes empresas de TI 
-	via e-mail, o que torna os dados tendenciosos.
-
+Resposta: De acordo com a pesquisa bibliográfica mais recente dos autores, cerca de 65% dos projetos iniciados em
+2006 fracassaram (Standish Group, 2007), enquanto dados de outra fonte (CHAOS, 2007) indicam que 46% dos projetos
+tiveram problemas de custo ou tempo execedidos, ou acabaram por não atender às demandas dos clientes, enquanto 16%
+puderam ser considerados completos fracassos. Entretanto, os dados da primeira fonte estão sendo questionados, uma
+vez que trazem divergências nos percentuais de custo excedido se comparados aos percentuais trazidos por outras
+fontes. Um dos problemas citados como causa da discrepância está na metodologia adotada, uma vez que os dados são
+obtidos por meio de um questionário sobre histórias de fracasso passado aos executivos de grandes empresas de TI
+via e-mail, o que torna os dados tendenciosos.
 
 2. A figura 1 apresenta os principais fatores de falhas em projetos de software e relações entre eles, mas não dá nome para essas relações. Escolha dois fatores que estejam relacionados e discuta qual a relação que você acha que existe entre elas, justificando sua resposta.
 
-	Resposta: Como ponto de partida para a análise, foram escolhidos dois fatores que se encontram ao centro da cadeia 
-	mostrada na Figura 1 do artigo: "Customer did not make adequate time for requirements" e "Delivery date impacted 
-	development process". Pode-se começar a análise pela relação entre os dois fatores supracitados, visto que se o 
-	cliente não dedica tempo suficiente para a extração de requisitos, a data da entrega possivelmente não 
-	corresponderá à verdadeira quantidade de trabalho necessária para atender às demandas, o que gera impactos no 
-	processo de desenvolvimento, que por sua vez está ligado à ausência de revisão das fases do projeto, por conta 
-	de um prazo apertado, que, por sua vez, contribui para a desmotivação da equipe por conta da pressão no ambiente 
-	de trabalho para o cumprimento de prazos mal-estipulados.
-
-	Além disso, a existência de um prazo agressivo resulta na adição de novos membros tardiamente, como forma de 
-	tentar agilizar o processo, que muitas vezes não estão ambientados ao projeto e podem causar um atraso ainda 
-	maior.
-
-	Por fim, valem algumas outras considerações: por vezes, os clientes possuem expectativas fora da realidade, o que 
-	impacta não só na extração de requisitos já discutida, mas também em mudanças de escopo ao longo do projeto e até
-	mesmo na escolha de uma metodologia que não será totalmente apropriada para o projeto que seguirá.
-
+Resposta: Como ponto de partida para a análise, foram escolhidos dois fatores que se encontram ao centro da cadeia
+mostrada na Figura 1 do artigo: "Customer did not make adequate time for requirements" e "Delivery date impacted
+development process". Pode-se começar a análise pela relação entre os dois fatores supracitados, visto que se o
+cliente não dedica tempo suficiente para a extração de requisitos, a data da entrega possivelmente não
+corresponderá à verdadeira quantidade de trabalho necessária para atender às demandas, o que gera impactos no
+processo de desenvolvimento, que por sua vez está ligado à ausência de revisão das fases do projeto, por conta
+de um prazo apertado, que, por sua vez, contribui para a desmotivação da equipe por conta da pressão no ambiente
+de trabalho para o cumprimento de prazos mal-estipulados.
+Além disso, a existência de um prazo agressivo resulta na adição de novos membros tardiamente, como forma de
+tentar agilizar o processo, que muitas vezes não estão ambientados ao projeto e podem causar um atraso ainda
+maior.
+Por fim, valem algumas outras considerações: por vezes, os clientes possuem expectativas fora da realidade, o que
+impacta não só na extração de requisitos já discutida, mas também em mudanças de escopo ao longo do projeto e até
+mesmo na escolha de uma metodologia que não será totalmente apropriada para o projeto que seguirá.
 
 3. Qual é a sugestão dos autores para que futuros projetos de software fracassem menos, e como essa sugestão ajudaria a melhorar os novos projetos?
 
-	Resposta: A sugestão dos autores é pautada na ideia de uma revisão post mortem dos projetos de software 
-	fracassados, visto que os maiores problemas atuais, tanto nos pequenos projetos do dia-a-dia, quanto naqueles 
-	de grande escala, são os mesmos de 30 anos. Com essa afirmação, os autores procuram mostrar que as organizações 
-	não estão aptas a compreender as causas de falhas em projetos, o que é um problema grave.
-
-	A sugestão não só permite que o índice de projetos fracassados decresça, mas também que a qualidade de projetos 
-	bem-sucedidos seja superior, visto que os erros que levam ao fracasso daqueles podem ocorrer em menor escala 
-	nestes.
+Resposta: A sugestão dos autores é pautada na ideia de uma revisão post mortem dos projetos de software
+fracassados, visto que os maiores problemas atuais, tanto nos pequenos projetos do dia-a-dia, quanto naqueles
+de grande escala, são os mesmos de 30 anos. Com essa afirmação, os autores procuram mostrar que as organizações
+não estão aptas a compreender as causas de falhas em projetos, o que é um problema grave.
+A sugestão não só permite que o índice de projetos fracassados decresça, mas também que a qualidade de projetos
+bem-sucedidos seja superior, visto que os erros que levam ao fracasso daqueles podem ocorrer em menor escala
+nestes.
